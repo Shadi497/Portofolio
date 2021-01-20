@@ -21,7 +21,7 @@ header.masthead .masthead-heading {
   font-size: 50px;
   font-weight: 700;
   line-height: 3.25rem;
-  margin-bottom: 2rem;
+  margin-bottom: 6rem;
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI",
     Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
     "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
@@ -62,7 +62,7 @@ section#contact .section-heading {
 .pic img {
   width: 19rem;
   height: 24rem;
-  margin-top: ;
+  margin-top: 55px;
 }
 
 li {
